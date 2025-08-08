@@ -18,7 +18,7 @@ Este proyecto es un clon **solo con HTML y CSS** de una página ficticia sobre l
 
 ## 🖼️ Vista previa
 
-![Captura del proyecto](https://github.com/Sebitasg14/landing-yt/blob/main/img/landing-yt.PNG)
+![Captura del proyecto](https://github.com/Sebitasg14/Simpsons-Web/blob/main/preview-web.PNG)
 
 
 ## 🚀 ¿Cómo verlo?
