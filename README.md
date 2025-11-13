@@ -1,4 +1,4 @@
-# 🎥 Clon visual de la página de inicio de YouTube
+# 🎥 Web de Los Simpsons
 
 Este proyecto es un clon **solo con HTML y CSS** de una página ficticia sobre los Simpsons, algo con ciertas secciones principales y una muestra de como podría ser.
 
