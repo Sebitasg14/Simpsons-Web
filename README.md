@@ -23,7 +23,7 @@ Este proyecto es un clon **solo con HTML y CSS** de una página ficticia sobre l
 
 ## 🚀 ¿Cómo verlo?
 
-Puedes abrir el archivo `index.html` directamente.
+Ve hacia esta url -> https://sebitasg14.github.io/Simpsons-Web/ para verlo directamente.
 
 ## ⏱️ Tiempo invertido
 
